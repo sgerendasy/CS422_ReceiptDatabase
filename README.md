@@ -5,3 +5,8 @@ Text Recognition using Google's Mobile Vision API in Android
 Min Android SDK = 25  
 Please manually add camera permissions to app
 
+# Authors
+Sam Gerendasy  
+Yehui Zhang  
+Logan Ronlov  
+Brett Merrill  
