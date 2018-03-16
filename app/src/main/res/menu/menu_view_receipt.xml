@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.devexchanges.textrecognization.ViewReceiptActivity">
+    <item
+        android:id="@+id/cancel"
+        android:title="cancel"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/save"
+        android:title="save"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete"
+        android:title="Delete"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Receipt List</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="read_text">read_text</string>
+    <string name="OCRCapture">Read Receipt</string>
+    <string name="desc">tempImage</string>
+    <string name="ocr_noText">No text captured</string>
+    <string name="low_storage_error">Not enough storage for process</string>
+    <string name="title_activity_view_receipt">Receipt</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
