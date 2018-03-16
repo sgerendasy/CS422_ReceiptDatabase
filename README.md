@@ -1,7 +1,7 @@
 # About
 An Android text recognition app using Google's Mobile Vision OCR API to digitally store receipt data.  
 This is a prototype, working only for Starbucks receipts.  
-This application was developed in five weeks for CS422, Software Methodologies, Winter 2018.  
+This application was developed in five weeks at UO for CS422, Software Methodologies, Winter 2018.  
 
 # Notes for setup/installation
 Min Android SDK = 25  
